@@ -5,13 +5,13 @@ KAIST 2020 Fall ME491(B) TA session, 3rd week, Neural network
 
 If GPU is not mounted on your laptop, or you don't want to use Ubuntu in tutorial session, you can use Google Colab which is a free Jupyter notebook environment that requires no setup and runs entirely in cloud.
 
-**Please try following things before the tutorial.**
+**Please follow instructions before the tutorial.**
 
 ---
 
 ### First step
 
-##### 1. Create your google acount 
+##### 1. Sign in to your google acount 
 
 ##### 2. Click the following link 
 https://colab.research.google.com
